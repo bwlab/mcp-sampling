@@ -1,0 +1,8 @@
+2026-05-12 09:01:23 INFO  app started, version=1.2.3
+2026-05-12 09:02:11 INFO  user lmassa@bwlab.it logged in
+2026-05-12 09:05:47 ERROR database connection refused: tcp://db:5432
+2026-05-12 09:05:48 ERROR retrying connection (attempt 1/3)
+2026-05-12 09:05:52 ERROR retrying connection (attempt 2/3)
+2026-05-12 09:05:58 ERROR retrying connection (attempt 3/3) — giving up
+2026-05-12 09:06:01 WARN  falling back to cached data
+2026-05-12 09:15:02 ERROR payment gateway timeout for order #12345

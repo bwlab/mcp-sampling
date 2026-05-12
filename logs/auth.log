@@ -1,0 +1,7 @@
+2026-05-12 08:55:01 sshd[1234]: Accepted password for lmassa from 192.168.1.10
+2026-05-12 09:01:00 sshd[1235]: Failed password for root from 203.0.113.42
+2026-05-12 09:01:05 sshd[1236]: Failed password for root from 203.0.113.42
+2026-05-12 09:01:10 sshd[1237]: Failed password for admin from 203.0.113.42
+2026-05-12 09:01:15 sshd[1238]: Failed password for admin from 203.0.113.42
+2026-05-12 09:01:20 sshd[1239]: Invalid user test from 203.0.113.42
+2026-05-12 09:02:00 sshd[1240]: Connection closed by 203.0.113.42
